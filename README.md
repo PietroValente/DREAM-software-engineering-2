@@ -21,7 +21,7 @@ The _Requirement Analysis and Specification Document_ (RASD) aims at illustratin
 
 ## DD
 
-The _Design Document_ (DD) is aimed to provide an overview of the SafeStreets application, explaining how to satisfy the project requirements declared in the RASD and stating the successive refinements made together with the Stakeholders according to their needs. The document is mainly intended to be used by developers teams as a guidance in the development process, by testing teams to write automated testing and to avoid structural degradation of the System in case of maintenance or future extension. Indeed, its purpose is to provide a functional description of the main **architectural components**, their **interfaces** and their **interactions**, along with the **design patterns**.
+The _Design Document_ (DD) is aimed to provide an overview of the application, explaining how to satisfy the project requirements declared in the RASD and stating the successive refinements made together with the Stakeholders according to their needs. The document is mainly intended to be used by developers teams as a guidance in the development process, by testing teams to write automated testing and to avoid structural degradation of the System in case of maintenance or future extension. Indeed, its purpose is to provide a functional description of the main **architectural components**, their **interfaces** and their **interactions**, along with the **design patterns**.
 
 ## Team
 - Pietro Valente
