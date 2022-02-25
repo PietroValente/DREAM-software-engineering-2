@@ -1,0 +1,85 @@
+package entities;
+
+import java.io.Serializable;
+import java.time.LocalDate;
+
+import javax.persistence.*;
+
+@Entity
+@Table(name = "Help_request")
+public class Help_Request implements Serializable {
+	private static final long serialVersionUID = 1L;
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column(name = "id", nullable = false, unique = true)
+	private long id;
+
+	@Column(name = "farm", nullable = false)
+	private long farm;
+
+	@Column(name = "agronomist", nullable = false)
+	private long agronomist;
+
+	@Column(name = "date", nullable = false)
+	private LocalDate date;
+
+	@Column(name = "subject", length = 40, nullable = false)
+	private String subject;
+
+	@Column(name = "description", length = 100, nullable = false)
+	private String description;
+
+	public Help_Request() {
+
+	}
+
+	public void setID(long id) {
+		this.id = id;
+	}
+
+	public long getID() {
+		return this.id;
+	}
+
+	public void setFarm(long farm) {
+		this.farm = farm;
+	}
+
+	public long getFarm() {
+		return this.farm;
+	}
+
+	public void setAgronomist(long agronomist) {
+		this.agronomist = agronomist;
+	}
+
+	public long getAgronomist() {
+		return this.agronomist;
+	}
+
+	public void setDate(LocalDate date) {
+		this.date = date;
+	}
+
+	public LocalDate getDate() {
+		return this.date;
+	}
+
+	public void setSubject(String subject) {
+		this.subject = subject;
+	}
+
+	public String getSubject() {
+		return this.subject;
+	}
+
+	public void setDescription(String description) {
+		this.description = description;
+	}
+
+	public String getDescription() {
+		return this.description;
+	}
+
+}
