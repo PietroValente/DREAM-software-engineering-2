@@ -14,6 +14,8 @@ For each of these figures, different objectives have been devised:
 * **Agronomists:** the system must assure them to write reports on the farms they visit containing the advice they have given with the help provided by DREAM AI; namely an AI algorithm of the system which proposes possible general suggestions on the production of each farm that the agronomist can choose to use or not. Only agronomists are allowed to give advice because they have the skills to do so, DREAM AI is just a tool used to help agronomists improving their advices which works by analysing the evolution of the farm’s production overtime and comparing it to the data related to other farms. The agronomists selected by the government are trained to give, in particular, effective advice against climate change. Each agronomist is associated with an area, which corresponds to a province of Telengana.
 * **Farmers:** the system must allow them to view relevant information such as weather predictions but also to take advantage of the personalized suggestions provided by agronomists after each visit to the farm. Furthermore, it will be possible for each farmer to interface with others by asking them for help or by creating a new discussion on the related forum. The advice given in this area remains informal and its effectiveness is not monitored.
 
+The prototype provides only for farmer users implementation, with some limitations that have been documented in the relevant section of the ITD document.
+
 <p align="center">
  <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png" alt="" width="600px"></a>
 </p>
