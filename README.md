@@ -25,7 +25,7 @@ The _Design Document_ (DD) is aimed to provide an overview of the application, e
 
 ## ITD
 
-The _Implementation and Test deliverable_ (ITD) will include the **code** and **description** of prototype we have developed, a document section describing the **structure of the code**, the adopted development **frameworks**, the **installation instructions**, and information on how you performed your **tests**.
+The _Implementation and Test deliverable_ (ITD) will include the **code** and **description** of prototype we have developed, a document section describing the **structure of the code**, the adopted development **frameworks**, the **installation instructions** and **test** information.
 
 ## Team
 - Pietro Valente
