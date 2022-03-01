@@ -19,10 +19,6 @@ The application should provide the following services:
  <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png" alt="" width="600px"></a>
 </p>
 
-<p align="center">
- <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/viewFarm.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/viewFarm.png" alt="" width="600px"></a>
-</p>
-
 ## RASD
 
 The _Requirement Analysis and Specification Document_ (RASD) aims at illustrating a complete overview of the project, providing a baseline for its planning and development. It guides the reader in understanding the specifics of the application domain and the relative System in terms of **functional requirements**, **non functional requirements** and **constraints**. It details how, according to these, the System interacts with the external world, showing concrete **use case scenarios**. A more comprehensive description of the most relevant features will be modelled with the use of the Alloy language.
