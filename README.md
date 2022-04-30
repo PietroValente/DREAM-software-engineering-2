@@ -19,7 +19,7 @@ For each of these figures, different objectives have been devised:
 The prototype provides only for farmer functionalities implementation, with some limitations that have been documented in the relevant section of the ITD document.
 
 <p align="center">
- <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png" alt="" width="600px"></a>
+ <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png" alt="" width="10%"></a>
 </p>
 
 ## RASD
