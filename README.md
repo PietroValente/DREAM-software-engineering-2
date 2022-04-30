@@ -20,6 +20,9 @@ The prototype provides only for farmer functionalities implementation, with some
 
 <p align="center">
  <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png" alt="" width="30%"></a>
+    &nbsp;
+    &nbsp;
+    &nbsp;
  <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/navbar.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/navbar.png" alt="" width="30%"></a>
 </p>
 ## RASD
