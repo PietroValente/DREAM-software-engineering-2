@@ -19,9 +19,9 @@ For each of these figures, different objectives have been devised:
 The prototype provides only for farmer functionalities implementation, with some limitations that have been documented in the relevant section of the ITD document.
 
 <p align="center">
- <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png" alt="" width="10%"></a>
+ <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png" alt="" width="30%"></a>
+ <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/navbar.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/navbar.png" alt="" width="30%"></a>
 </p>
-
 ## RASD
 
 The _Requirement Analysis and Specification Document_ (RASD) aims at illustrating a complete overview of the project, providing a baseline for its planning and development. It guides the reader in understanding the specifics of the application domain and the relative System in terms of **functional requirements**, **non functional requirements** and **constraints**. It details how, according to these, the System interacts with the external world, showing concrete **use case scenarios**. A more comprehensive description of the most relevant features will be modelled with the use of the Alloy language.
