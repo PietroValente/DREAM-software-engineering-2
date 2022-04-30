@@ -27,13 +27,23 @@ The prototype provides only for farmer functionalities implementation, with some
     &nbsp;
  <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/navbar.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/navbar.png" alt="" width="40%"></a>
     <br>
-    <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/login.png" alt="" width="40%"></a>
+    <br>
+    <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/forum.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/forum.png" alt="" width="40%"></a>
     &nbsp;
     &nbsp;
     &nbsp;
     &nbsp;
     &nbsp;
- <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/navbar.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/navbar.png" alt="" width="40%"></a> 
+ <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/viewRanking.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/viewRanking.png" alt="" width="40%"></a> 
+    <br>
+    <br>
+<a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/viewFarm.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/viewFarm.png" alt="" width="40%"></a>
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+ <a href="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/modifyUpdateData.png"><img src="https://github.com/pietrovalente/DREAM-software-engineering-2/blob/main/images/modifyUpdateData.png" alt="" width="40%"></a> 
 </p>
 ## RASD
 
